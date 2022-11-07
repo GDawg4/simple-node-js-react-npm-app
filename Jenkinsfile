@@ -2,7 +2,6 @@ pipeline {
     agent {
         docker {
             image 'nginx'
-            args '-p 80:3000'
         }
     }
     stages {
