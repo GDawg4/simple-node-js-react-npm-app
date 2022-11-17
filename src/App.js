@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-            Prueba en vivo y en directo
+            Prueba en vivo y en directo para la grabación y la posteridad
         </p>
       </div>
     );
